@@ -7,17 +7,24 @@ A responsive personal portfolio websites which showcase my skills, education, ex
 Tech Stack
 
 =>Frontend
+
  React.js
  TypeScript
  Vite
+
 =>Styling
+
  Tailwind CSS
  CSS Animations
+
 =>UI Components
+
  Radix UI
  Lucide React Icons
  shadcn/ui Components
+ 
 =>Additional Libraries
+
  Framer Motion
  React Router
  clsx
