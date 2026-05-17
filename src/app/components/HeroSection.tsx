@@ -1,7 +1,7 @@
 import { Button } from './ui/button';
 import { Download, Mail, ArrowDown } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
-import profileImage from '../../assets/profile.jpg';
+import profileImage from '../../assets/profile.JPG';
 import backgroundPattern from '../../assets/d7bb5fe7e7ad3049a34fc7aa3dcf692fc383e692.png';
 
 export function HeroSection() {
