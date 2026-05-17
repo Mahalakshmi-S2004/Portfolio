@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Mahalakshmi Saravanan Portfolio Website
 # Personal Portfolio Website
@@ -85,3 +86,6 @@ src/
 └── main.tsx
   
   
+=======
+# Portfolio
+>>>>>>> 4172a3adedeb3d9f5c25def62b3d2fdfb6515903
