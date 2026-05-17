@@ -101,7 +101,7 @@ export function ContactSection() {
                         href="tel:+91 9360769196"
                         className="text-muted-foreground hover:text-primary transition-colors"
                       >
-                        +91 9360769196
+                        +91 *********
                       </a>
                     </div>
                   </div>
