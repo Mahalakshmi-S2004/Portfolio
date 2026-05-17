@@ -38,6 +38,9 @@ export function EducationSection() {
                     <Calendar className="h-4 w-4" />
                     <span>2022 - 2025</span>
                   </div>
+                  <div className="text-sm font-semibold text-blue-600 dark:text-blue-400 mt-1">
+                    CGPA: 7.5 / 10
+                  </div>
                   <div className="text-sm font-medium text-green-600 dark:text-green-400 mt-1">
                     Graduated
                   </div>
@@ -68,7 +71,7 @@ export function EducationSection() {
                     </div>
                     <div className="flex items-center gap-2">
                       <div className="w-2 h-2 bg-green-500 rounded-full" />
-                      <span>Computer Networks</span>
+                      <span>OOPs concept</span>
                     </div>
                     <div className="flex items-center gap-2">
                       <div className="w-2 h-2 bg-green-500 rounded-full" />
@@ -111,6 +114,9 @@ export function EducationSection() {
                   <div className="flex items-center gap-1 text-muted-foreground">
                     <Calendar className="h-4 w-4" />
                     <span>Expected 2027</span>
+                  </div>
+                  <div className="text-sm font-semibold text-blue-600 dark:text-blue-400 mt-1">
+                    Current CGPA: 7.4 / 10
                   </div>
                   <div className="text-sm font-medium text-green-600 dark:text-green-400 mt-1">
                     Final Year

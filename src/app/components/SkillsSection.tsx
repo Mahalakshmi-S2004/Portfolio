@@ -14,7 +14,7 @@ export function SkillsSection() {
       title: "Frameworks & Libraries",
       icon: Globe,
       color: "text-green-500",
-      skills: ["React", "Tailwind CSS", "Firebase", "Flutter"]
+      skills: ["React", "Tailwind CSS", "Firebase", "Flutter", "Numpy", "Pandas", "Matplotlib"]
     },
     {
       title: "Database Management",
