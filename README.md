@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Mahalakshmi Saravanan Portfolio Website
 
 A responsive personal portfolio websites which showcase my skills, education, experience, certificates and contacts developed with Visual Studio Code. The technologies, libraries and frame works are given below. 
@@ -58,4 +56,4 @@ AI tools were used during the development process for:
 - Development support and learning
 
 ---
->>>>>>> 4172a3adedeb3d9f5c25def62b3d2fdfb6515903
+
